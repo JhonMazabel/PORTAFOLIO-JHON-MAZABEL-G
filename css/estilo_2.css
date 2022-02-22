@@ -1,0 +1,6 @@
+header {background-color: rgb(95, 95, 185); font-size: 125%; font-family: 'Times New Roman', Times, serif;}
+h1, h2 {
+    background-color: beige;
+    border-left:blanchedalmond 10px
+    padding -left 20px
+}
